@@ -99,7 +99,7 @@ namespace PlaylistManagmentUsingNodes
             }
             Console.WriteLine("null");
         }
-        public void PringPlaylistBackward()
+        public void PrintPlaylistBackward()
         {
             if (head == null)
             {
